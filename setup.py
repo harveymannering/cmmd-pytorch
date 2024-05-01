@@ -7,5 +7,5 @@ setup(name='cmmd-pytorch',
       author='Flying Circus',
       author_email='flyingcircus@example.com',
       license='MIT',
-      packages=['funniest'],
+      packages=['cmmd-pytorch'],
       zip_safe=False)
